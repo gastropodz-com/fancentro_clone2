@@ -67,7 +67,7 @@ const TESTIMONIALS = [
     name: "Aria Strong",
     username: "@aria_fitness",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Aria&backgroundColor=d1f4e0",
-    quote: "As a foodie creator, the subscription tiers are perfect. I can offer different levels of coaching at different price points. My clients get exactly what they need.",
+    quote: "As a big girl creator, the subscription tiers are perfect. I can offer different levels of coaching at different price points. My clients get exactly what they need.",
     earnings: "$12K",
     period: "per month",
     stars: 5,
